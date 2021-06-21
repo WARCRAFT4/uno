@@ -1,0 +1,49 @@
+
+body{
+    background-image: url(https://wallpapercave.com/wp/AGC2gcb.jpg);
+}
+
+#cuadro{
+    background-color: white;
+    background-size: cover;
+    border: solid black;
+    background-repeat: repeat; 
+    
+}
+h1{
+    text-align: center;
+    color: cadetblue;
+}
+#sig{
+    padding: 70px;
+    color:black;
+}
+img{
+    border:solid brown;
+}
+#sigu{
+    border:solid chocolate;
+    float: left;
+}
+#sigue{
+    padding: 70px;
+    border-top:solid blue;
+}
+#cen{
+    padding-left: 100px;
+    color: blue;
+}
+#despues{
+    color: crimson;
+    padding-left: 70px;
+}
+#separacion{
+    color:blue;
+    padding-left: 70px ;
+    border-top: solid blue;
+}
+#final{
+    padding: 70px;
+    color: brown;
+    border-top: solid crimson;
+}
